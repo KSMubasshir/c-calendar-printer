@@ -6,11 +6,11 @@ Given a Date,Month,Year calculates which weekday it was
 * Month
 * Year
 ### Output
-[images/day.png]
+[day](images/day.png)
 ## calendar_printer.c
 C code to print a calendar month
 ### Input
 * Month
 * Year
 ### Output
-[images/calendar.png]
+[calendar](images/calendar.png)
